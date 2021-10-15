@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Scatter plot on Google Map](https://github.com/aawe44/Covid19_Map)
+[Scatter plot on Google Map 2110](https://github.com/aawe44/Covid19_Map)
 <img src="images/covid19_map_t1.gif?raw=true"/>
 
 ---
