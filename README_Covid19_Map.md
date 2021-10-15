@@ -1,4 +1,4 @@
-# Scatter plot on Google Map
+# Scatter plot on Google Map 1120
 
 Visualization of the covid-19 confirmed cases in the United State. The map displays the county or state according to the zoom level.
 
@@ -12,7 +12,7 @@ Visualization of the covid-19 confirmed cases in the United State. The map displ
 
 ## Screenshot
 
-![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/covid19_map_t1.gif)
+![Screen 1](/images/covid19_map_t1.gif)
 
 
 |![County Level](https://github.com/aawe44/pic_covid19_map/blob/main/image_county.png)|![State Level](https://github.com/aawe44/pic_covid19_map/blob/main/image_state.png)
