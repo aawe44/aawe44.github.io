@@ -4,7 +4,7 @@
 
 ### GitHub Project 
 
-[Scatter plot on Google Map: COVID-19 confirmed cases](https://github.com/aawe44/Covid19_Map)
+[Scatter plot on Google Map: COVID-19 confirmed cases](/README_Covid19_Map)
 <img src="images/covid19_map_t1.gif?raw=true"/>
 
 ---
