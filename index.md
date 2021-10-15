@@ -20,7 +20,7 @@
 ---
 [A* search algorithm in circle maze](https://github.com/aawe44/A_star_pathfinding_in_circle_maze)
 <img src="images/a_star_center_to_right.gif?raw=true"/>
-<!-- <img src="images/a_star_right_to_center.gif?raw=true"/> -->
+<img src="images/sphere_maze.gif?raw=true"/>
 
 ---
 
