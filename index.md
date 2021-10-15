@@ -4,7 +4,8 @@
 
 ### GitHub Project 
 
-[Scatter plot on Google Map: COVID-19 confirmed cases](/README_Covid19_Map)
+<!-- [Scatter plot on Google Map: COVID-19 confirmed cases](/README_Covid19_Map) -->
+[Scatter plot on Google Map: COVID-19 confirmed cases](https://github.com/aawe44/Covid19_Map)
 <img src="images/covid19_map_t1.gif?raw=true"/>
 
 ---
@@ -23,7 +24,7 @@
 <img src="images/sphere_maze.gif?raw=true"/>
 
 ---
-[test for simple page 1041](/sample_page)
+<!-- [test for simple page 1041](/sample_page) -->
 
 
 
