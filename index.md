@@ -4,7 +4,7 @@
 
 ### GitHub Project 
 
-[Scatter plot on Google Map 2110](https://github.com/aawe44/Covid19_Map)
+[Scatter plot on Google Map](https://github.com/aawe44/Covid19_Map)
 <img src="images/covid19_map_t1.gif?raw=true"/>
 
 ---
@@ -18,7 +18,7 @@
 
 
 ---
-[A* search algorithm in circle maze 0920](https://github.com/aawe44/A_star_pathfinding_in_circle_maze)
+[A* search algorithm in circle maze](https://github.com/aawe44/A_star_pathfinding_in_circle_maze)
 <img src="images/a_star_center_to_right.gif?raw=true"/>
 <!-- <img src="images/a_star_right_to_center.gif?raw=true"/> -->
 
