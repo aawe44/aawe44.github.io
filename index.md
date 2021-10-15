@@ -2,14 +2,15 @@
 
 ---
 
-### Category Name 1 
+### GitHub Project 
 
 [Scatter plot on Google Map 2110](https://github.com/aawe44/Covid19_Map)
 <img src="images/covid19_map_t1.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[A* search algorithm in circle maze 0920](https://github.com/aawe44/A_star_pathfinding_in_circle_maze)
+<img src="images/a_star_center_to_right.gif?raw=true"/>
+<img src="images/a_star_right_to_center.gif?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -17,15 +18,7 @@
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
