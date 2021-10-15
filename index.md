@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Scatter plot on Google Map](/Covid19_Map)
-<img src="https://github.com/aawe44/pic_covid19_map/blob/main/covid19_map_t1.gif"/>
+[Scatter plot on Google Map](https://github.com/aawe44/Covid19_Map)
+![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/covid19_map_t1.gif)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
