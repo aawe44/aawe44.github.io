@@ -23,6 +23,7 @@
 <img src="images/sphere_maze.gif?raw=true"/>
 
 ---
+[test for simple page 1032](aawe44.github.io/sample_page)
 
 
 
